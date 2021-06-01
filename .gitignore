@@ -1,0 +1,7 @@
+.vs/
+build/
+intermediate/
+RayCasting.sln
+RayCasting.vcxproj
+RayCasting.vcxproj.filters
+RayCasting.vcxproj.user
